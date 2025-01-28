@@ -1,4 +1,4 @@
-The main objective of this study is to understand the gene expression alternations in autism spectrum disorder cases. It's evaluated by experimenting with the comparison groups.
+The main objective of this study is to understand the gene expression alterations in autism spectrum disorder cases. It's evaluated by experimenting with the comparison groups.
 
 It contains three comparison group, (Age matching control, Healthy mother with ASD children and Age matching healthy mother with no ASD children and no past history of ASD) with equal
 sample size on every group (n=21)
